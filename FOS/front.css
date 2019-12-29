@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+     font-family:Tahoma;
+ }
+
+
+ .mainline{
+     position: absolute;
+     width: 1140px;
+     color: #B80000 ;
+     font-size: 30px;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+     top: 40%;
+     right: 1%;
+    }
+
+header
+{
+    background-image: url(img/backgroundd.jpg);
+    height: 80vh;
+    background-position: center;
+    background-size:  cover;
+}
+.fa{
+    color: #3385ff ;
+    text-shadow: 1px 3px 2px ;
+    padding-left: 10px;
+    
+}
+
+
+.category{
+    text-align: center;
+    color: #ffffff;
+    background-color: #3385ff ;
+    margin: 20px;
+}
+
+.card-img-top{
+    height: 240px;
+    width: auto;
+}
